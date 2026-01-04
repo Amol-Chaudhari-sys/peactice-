@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\HP\\Documents\\E playlist\\javascript",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"label": "Live Preview: Run Server",
+			"isBackground": true
+		}
+	]
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #a{grid-area: a1;}
+        #b{grid-area: b1;}
+        #c{grid-area: c1;}
+        #d{grid-area: d1;}
+
+        #container{
+            display: grid;
+            grid-template-areas: 'a1 a1 b1 b1' 'c1 c1 d1 d1';
+            border: 2px solid;
+            background-color: aqua;
+            padding: 20px;
+        }
+        div{
+            background-color: blue;
+            padding: 20px;
+            margin: 20px;
+            border: solid ;
+        
+        }
+
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="a">Home</div>
+        <div id="b">Services</div>
+        <div id="c">About</div>
+        <div id="d">Contact</div>
+    </div>
+    
+</body>
+</html>
