@@ -1,0 +1,19 @@
+CIA :
+information security 
+    1.confidantiality :  accrss rights 
+    2.intrigrity  :  accuricy 
+    3.Avalability : 
+
+Key terms 
+    1.valnabrity  : voilet system securit policy 
+    2.threats  : natural or man nmade event able to cause the negative impact on the system 
+    3.Explorit  : way to vanabrity 
+    4. risk  : 
+
+critical thinking 
+5 keys of critical thinking 
+    1.challange assumption 
+    2.consider alternatives 
+    3.evaluate data 
+    4.identify key drivers 
+    5.understand context 
