@@ -1,0 +1,86 @@
+CIA :
+information security 
+    1.confidantiality :  accrss rights 
+    2.intrigrity  :  accuricy 
+    3.Avalability : 
+
+Key terms 
+    1.valnabrity  : voilet system securit policy 
+    2.threats  : natural or man nmade event able to cause the negative impact on the system 
+    3.Explorit  : way to vanabrity 
+    4. risk  : 
+
+critical thinking 
+5 keys of critical thinking 
+    1.challange assumption 
+    2.consider alternatives 
+    3.evaluate data 
+    4.identify key drivers 
+    5.understand context 
+
+Types of cyber attacks and their impact
+
+
+tols and attacks
+1. seadaddy and seaduke (cyber bear US Election  )
+2.BlackEnergy 3.0 (Russion hackers )
+3. shamoon (iron hackers )
+4.Duqu and Flame (Olimpis game US and israel )
+5. Darkseoul (Lazarous and North koria )
+6. wannacry (Lazarous and North koria )
+
+Types of attacks 
+    active attack 
+        1. masquarade
+        2.reply
+        3.modifications
+        4.DOS
+    passive attack 
+        1.discloser 
+        2.traffic analysis
+
+
+Security mechanish 
+1. specific scurity mechanish 
+cryptography 
+access control 
+digital signature 
+data intrigrity 
+authentication exchange 
+traffic padding 
+routing control 
+notarization 
+
+2.persavive security mechanish 
+trusted facility 
+security label 
+event dectection 
+security audit trial 
+security recovery 
+
+attackes 
+denial of attacks(dos):availability 
+
+malware
+1.virus 
+2.worms
+3.Trojen horses
+4.spyware
+5.addware
+6.RATs
+7.Rootkit
+Ransomware
+
+key logers 
+logicbombs
+
+protects
+techinical cantrol
+1.anitvirus
+2.IPS,IDS,UTM
+3.updates
+
+administrative catrol 
+1.policies
+2.Tranning
+3.revision and tracking
