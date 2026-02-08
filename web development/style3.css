@@ -1,0 +1,45 @@
+body{
+    background-image: url(nature.jpg);
+    background-repeat: no-repeat;
+    
+}
+div{
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    position:relative;
+
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    border: 3px solid black;
+    /* transition-property: all;
+    transition: 2s;
+    transition-timing-function: steps(4);
+    transition-delay: 50ms; */
+    transition:all 2s linear 50ms;
+ 
+}
+
+div:hover{
+    /* transform: scaleX(2);
+    transform: scaleY(2); */
+    transform: scale(2,1);
+    
+    font-size: 25px;
+    color: wheat;
+    background: transparent;
+    font-size: 25px;
+    /* transform: translate(500px,500px); */
+    /* transform: rotate(360deg); */
+    transform: skew(90deg);
+   
+    
+}
+div:active{
+    background-color: pink ;
+}
+h1:active{
+   
+    transform: translate(50px );
+    }

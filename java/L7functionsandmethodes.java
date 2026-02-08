@@ -1,9 +1,9 @@
 import java.util.*;
 
 public class L7functionsandmethodes {
-       public static int sum(int a,int b){
+    public static int sum(int a,int b){
         System.out.println(a+b);
-    return a+b;
+        return a+b;
     }
     public static int prod(int a,int b){
         System.out.println(a*b);
@@ -19,9 +19,7 @@ public class L7functionsandmethodes {
 
     }
 
-    public static void main(String[] args) {
-     
-        
+    public static void main(String[] args) {        
         Scanner sc =new Scanner(System.in);
         System.out.println("enter A :");
         int a=sc.nextInt();

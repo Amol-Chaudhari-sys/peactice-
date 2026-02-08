@@ -1,0 +1,208 @@
+
+/* *{
+    font-family: 'Times New Roman';
+    text-align: center;
+
+}  */
+/*
+body{
+    padding-left: 10%;
+    padding-top: 10%;
+    
+
+    background-color:rgb(253, 240, 255);
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: red wavy underline;
+    
+}
+h2{
+    text-decoration: overline;
+}
+h3{
+    text-decoration: line-through;
+}
+
+div{ 
+    
+    text-align: center;
+    background-color: aqua;
+}
+#box{
+    
+    width: 80%;
+}
+p{
+    text-transform:capitalize;
+    line-height: 30px;
+    font-family:cursive;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    font-weight: normal;
+}
+#h2 {
+    font-weight: lighter;
+}
+#h3{
+    font-weight: 200;
+} */
+
+/* h1{
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 750px;
+    background-color: rgb(205, 207, 236);
+}
+#outer{
+    text-align: center;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    padding: 100px;
+    border-radius: 50%;
+    border-color:rgb(225, 190, 121);
+    border-width: 10px;
+    border-style:double;
+    height: 500px;
+    width: 500px;
+    margin: 10px ;
+    background-color: antiquewhite;
+    font-size: 25px;
+
+}
+#inner{
+    border-radius: 50%;
+    height: 300px;
+    padding: 10%;
+    
+    margin: 10px;
+    background-color: rgba(137, 43, 226, 0.374);
+    font-size: 15px;
+
+} 
+#box{
+    align-content: center;
+}
+#light{
+    
+    padding: 25px;
+    width: fit-content;
+    background-color: rgb(83, 81, 81);
+}
+#green{
+    margin: 10px;
+    background-color: green;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    
+}
+#red{
+    margin: 10px;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+#yello{
+    margin: 10px;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+} */
+/* #navi{
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+}
+a{
+    font-size: 25px;
+    color: aliceblue;
+    margin-right: 200px;
+}
+#logo{
+    color: orange;
+} */
+/* button{
+    background-color: orange;
+} */
+
+/* #vio{
+
+    width: 100px;
+    height: 100px;
+    background-color: rgb(238, 130, 238 ,0.3);
+} */
+/* #lin{
+    background-image: url(nature.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 150px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    
+} */
+body{
+    text-align: center;
+    align-items: center;
+    /* background-image: url("nature.jpg");
+    background-size: contain;
+    background-repeat: no-repeat; */
+}
+#flexcontener{
+    background-color: rgb(177, 168, 254);
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    /* align-items: flex-end; */
+    align-content: flex-end;
+    /* flex-grow: 2; */
+    
+   
+div{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 2px solid gray;
+}
+#box1{
+    
+    
+   
+    background-color: red;
+
+}
+
+#box2{
+    flex-grow: 1;
+    height: 200px;
+   
+    background-color: aqua;
+}
+#box3{
+    height: 50px;
+    background-color: rgb(30, 210, 72);    
+}
+#box4{
+    background-color: blue;
+}
+#box5{
+    background-color: burlywood;
+}

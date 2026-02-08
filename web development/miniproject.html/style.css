@@ -1,0 +1,173 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    border: border-box;
+}
+.navbar{
+    padding-left: 20px;
+    padding-right: 70px;
+    justify-content: space-between;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color:#0f1111;
+    height: 60px;
+    
+}
+.navlogo{
+    
+    margin-left: 5px;
+    height: 50px;
+    width: 114px;
+}
+.logo{
+    border-radius: 5px;
+    background-image: url(amazon_logo2.webp);
+    background-size: cover;
+    height: 100%;
+    width: 100%; 
+}
+.add{
+    font-size: 1rem;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.add1{
+    
+    bottom: 0px;
+    display: inline;
+}
+.add2{
+    margin: 2px;
+}
+
+
+.border{
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.border:hover{
+   
+    border: 1px solid rgb(253, 255, 225);
+    
+    
+}
+.search_bar{
+    background-color: rgb(250, 209, 26);
+    border-radius: 5px ;
+    display: flex;
+    align-content: center;
+    width: 800px;
+    height :40px
+}
+.search2{
+    width: 91%;
+}
+.search3{
+    width: 40px;
+    display: inline-block;
+    
+    align-content: center;
+    text-align: center;
+}
+
+.nav32{
+    font-size: 20px;
+    font-weight: bold;
+}
+.navi{
+    display: flex;
+    color: aliceblue;
+    height: 39px;
+    background-color: #252b2b;
+}
+.vavi:hover{
+    float: right;
+}
+#navi-all{
+    height: 100%;
+    background-color: #728d8d;
+}
+.navi1{
+    padding: 5px;
+    font-size: 16px;
+    height: 26px;
+}
+#main_background{
+    background-image: url(amazon\ background.jpg);
+    
+    background-color: pink;
+    
+    background-size:cover;
+    justify-items: center;
+    padding-top:710px;
+    padding-bottom: 20px;
+    
+}
+#main_background p{
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 10px;
+    
+    
+}
+.midbox{
+    background-color: rgb(250, 206, 214);
+    display: flex;
+    /* width: 1510px; */
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+
+}
+.box{
+    
+    background-color: antiquewhite;
+    margin: 10px;
+    justify-items: center;
+    background-size: contain;
+    align-content: center;
+   
+    border: 2px solid black;
+    width: 390px;
+    
+}
+.box1 p{
+    font-size: 25px;
+}
+.box1 img{
+    width: 370px;
+    
+    
+}
+.flo{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(241, 12, 69);
+    justify-items: center;
+}
+.flow {
+    float: left;
+    justify-items: center;
+    text-align: center;
+    align-content: center;
+    width: 40%;
+    height: 100%;
+    background-color: aqua;
+}
+.flow:hover{
+    float: right ;
+}
+.flow button{
+border-radius: 20px;
+    font-size: 30px;
+    width: 200pxpx;
+    height: 70px;
+}
+
+
+
+
+    

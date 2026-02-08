@@ -16,7 +16,7 @@ public class L8excersise {
     public static int grater(int a,int b){
         if (a==b){
             System.out.println("both are equal ");
-            return 0;
+            return a;
         }
         else if (a>b){
             System.out.println("a is grater ");

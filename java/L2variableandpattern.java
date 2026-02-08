@@ -3,11 +3,17 @@ public class L2variableandpattern {
     
 
     public static void main(String[] args) {
-        for (int i =1;i<=5;i++){
-            for (int j=1;j<=i;j++){
-                System.out.print(" * ");
+        // for (int i =1;i<=5;i++){
+        //     for (int j=1;j<=i;j++){
+        //         System.out.print(" * ");
+        //     }
+        //     System.out.println(); 
+        // }
+        for (int i=0;i<=5;i++){
+            for (int j=0;j<=i;j++){
+                System.out.print( " v ");
             }
-            System.out.println(); 
+            System.out.println();
         }
 
         float a= 101;
@@ -24,9 +30,7 @@ public class L2variableandpattern {
         int d = sc.nextInt();
         System.out.println("enter no.2");
         int e=sc.nextInt() ;
-
-        int f= d*e;
-        System.out.println(f);
+        System.out.println(d*e);
 
 
     }  
